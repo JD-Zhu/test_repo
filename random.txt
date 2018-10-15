@@ -1,3 +1,5 @@
 This is a random text file.
 
 Made changes to master only, not on test branch.
+
+Made changes by Wei.
